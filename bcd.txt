@@ -1,1 +1,2 @@
 2nd file in feature
+line from git
